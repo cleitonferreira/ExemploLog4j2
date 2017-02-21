@@ -14,13 +14,6 @@
 		</developer>
 	</developers>
 
-	<repositories>
-		<properties>
-			<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-			<mainClass>br.com.nuvemapp.exemplolog4j2.Main</mainClass>
-		</properties>
-	</repositories>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
